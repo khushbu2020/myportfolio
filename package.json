@@ -1,12 +1,9 @@
 {
-  "homepage": "https://khushbu2020.github.io/myportfolio/",
   "name": "myportfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "tailwind": "npx tailwindcss -i ./src/index.css -o ./src/output.css --watch",
