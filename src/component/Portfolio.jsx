@@ -22,7 +22,7 @@ const Portfolio = () => {
           </div>
           <div className="flex flex-wrap -m-4">
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -62,7 +62,7 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -102,7 +102,7 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -142,7 +142,7 @@ const Portfolio = () => {
               </div>
             </div>
             {/* <div className="lg:w-1/3 sm:w-1/2 p-4">
-        <div className="flex relative">
+          <div className="relative w-full h-72">
           <img
             alt="gallery"
             className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -164,7 +164,7 @@ const Portfolio = () => {
         </div>
       </div> */}
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -205,7 +205,7 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
@@ -246,7 +246,7 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="lg:w-1/3 sm:w-1/2 p-4">
-              <div className="flex relative">
+              <div className="relative w-full h-72">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full rounded-2xl h-full object-cover object-center"
